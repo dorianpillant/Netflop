@@ -1,0 +1,16 @@
+.voir-film {
+    
+    display: flex;
+}
+
+.voir-film .info-img {
+    width: 20%;
+}
+
+.voir-film .info {
+    width: 80%;
+}
+
+body{
+    background:#f0b3b3;
+}

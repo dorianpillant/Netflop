@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Netflop>
+    <categoriefilm>
+        <film id="1">
+            <name>Las Vegas Parano</name>
+            <image> </image>
+            <Réalisateur>  Réalitsateur : Terry Gilliam</Réalisateur>
+            <datedesortie> Année de sortie : 1998 </datedesortie>
+            <résumer> Description : A travers l'épopée à la fois comique et horrible vers Las Vegas du journaliste Raoul Duke et de son énorme avocat,
+                                le Dr. Gonzo, évocation caustique et brillante de l'année 1971 aux Etats-Unis, 
+                                pendant laquelle les espoirs des années soixante et le fameux rêve américain 
+                                furent balayés pour laisser la place à un cynisme plus politiquement correct. </résumer>
+            <lienAllocine>http://www.allocine.fr/film/fichefilm_gen_cfilm=18457.html</lienAllocine>
+        </film>
+
+        <film id="2">
+            <name>Tomb Raider</name>
+            <image> </image>
+            <Réalisateur> Réalisateur : Roar Uthaug </Réalisateur>
+            <datedesortie> Année de sortie : 14 mars 2018 </datedesortie>
+            <résumer> Description : Lara Croft, 21 ans, n'a ni projet, ni ambition :
+                                fille d'un explorateur excentrique porté disparu depuis sept ans, 
+                                cette jeune femme rebelle et indépendante refuse de reprendre l'empire de son père. 
+                                Convaincue qu'il n'est pas mort, 
+                                elle met le cap sur la destination où son père a été vu pour la dernière fois :
+                                la tombe légendaire d'une île mythique au large du Japon
+                                Mais le voyage se révèle des plus périlleux et il lui faudra affronter d'innombrables ennemis
+                                et repousser ses propres limites pour devenir "Tomb Raider".</résumer>
+            <lienAllocine>http://www.allocine.fr/film/fichefilm_gen_cfilm=142913.html</lienAllocine>
+        </film>
+
+        <film id="3">
+            <name>Je suis une légende</name>
+            <image> </image>
+            <Réalisateur> Réalitsateur : Francis Lawrence </Réalisateur>
+            <datedesortie> Année de sortie : 19 décembre 2007</datedesortie>
+            <résumer> Description : Robert Neville était un savant de haut niveau et de réputation mondiale,
+                            mais il en aurait fallu plus pour stopper les ravages de cet incurable et terrifiant virus d'origine humaine.
+                            Mystérieusement immunisé contre le mal,
+                            Neville est aujourd'hui le dernier homme à hanter les ruines de New York. 
+                            Peut-être le dernier homme sur Terre... 
+                            Depuis trois ans, il diffuse chaque jour des messages radio dans le fol espoir de trouver d'autres survivants. 
+                            Nul n'a encore répondu.
+                            Mais Neville n'est pas seul. Des mutants, victimes de cette peste moderne - on les appelle les "Infectés" - rôdent dans les ténèbres... 
+                            observent ses moindres gestes, guettent sa première erreur.
+                            Devenu l'ultime espoir de l'humanité, Neville se consacre tout entier à sa mission :
+                            venir à bout du virus, en annuler les terribles effets en se servant de son propre sang.
+                            Ses innombrables ennemis lui en laisseront-ils le temps ? Le compte à rebours touche à sa fin.... </résumer>
+            <lienAllocine>http://www.allocine.fr/film/fichefilm_gen_cfilm=105557.html</lienAllocine>
+        </film>
+
+        <film id="4">
+            <name>Interstellar</name>
+            <image> </image>
+            <Réalisateur> Réalitsateur : Christopher Nolan </Réalisateur>
+            <datedesortie> Année de sortie : 5 novembre 2014</datedesortie>
+            <résumer> Description : Le film raconte les aventures d’un groupe d’explorateurs qui utilisent une faille
+                            récemment découverte dans l’espace-temps afin de repousser les limites humaines 
+                            et partir à la conquête des distances astronomiques dans un voyage interstellaire. </résumer>
+            <lienAllocine>http://www.allocine.fr/film/fichefilm_gen_cfilm=114782.html</lienAllocine>
+        </film>
+    </categoriefilm>
+    
+    <categorieseries>
+        <Série id="1">
+            <name>Sense8</name>
+            <image>https://ia.media-imdb.com/images/M/MV5BMTU3OTQwOTY2Ml5BMl5BanBnXkFtZTgwMjIzMjYxMjI@._V1_UX182_CR0,0,182,268_AL_.jpg</image>
+            <année>2015</année>
+            <réalisateur>The Wachowskis, J. Michael Straczynski</réalisateur>
+            <description>Huit individus éparpillés aux quatre coins du monde sont connectés par une soudaine et violente vision. Désormais liés, ils se retrouvent capables du jour au lendemain de se voir, de se sentir, de s'entendre et de se parler comme s'ils étaient au même endroit, et ainsi accéder aux plus sombres secrets des uns et des autres. Les huit doivent dès lors s'adapter à ce nouveau don, mais aussi comprendre le pourquoi du comment. Fuyant une organisation qui veut les capturer, les tuer ou faire d'eux des cobayes, ils cherchent quelles conséquences ce bouleversement pourrait avoir sur l'humanité.</description>
+            <lien>http://www.allocine.fr/series/ficheserie_gen_cserie=11498.html</lien>
+            <lien>http://www.imdb.com/title/tt2431438/?ref_=nv_sr_1</lien>
+        </Série>
+        <Série id="2">
+            <name>TheWalkingDead</name>
+            <image>https://ia.media-imdb.com/images/M/MV5BMzNkMWNmZGUtNWFlZi00MTYwLWIwMjQtOGViN2QzNmI2MWYwXkEyXkFqcGdeQXVyODA1MDc5NjM@._V1_UY268_CR0,0,182,268_AL_.jpg</image>
+            <année>2010</année>
+            <réalisateur>Robert Kirkman, Glen Mazzara</réalisateur>
+            <description>Après une apocalypse ayant transformé la quasi-totalité de la population en zombies, un groupe d'hommes et de femmes mené par l'officier Rick Grimes tente de survivre... Ensemble, ils vont devoir tant bien que mal faire face à ce nouveau monde devenu méconnaissable, à travers leur périple dans le Sud profond des États-Unis.</description>
+            <lien>http://www.allocine.fr/series/ficheserie_gen_cserie=7330.html</lien>
+            <lien>http://www.imdb.com/title/tt1520211/?ref_=nv_sr_1</lien>
+            
+        </Série>
+        <Série id="3">
+            <name>RickAndMorty</name>
+            <image>https://ia.media-imdb.com/images/M/MV5BMjRiNDRhNGUtMzRkZi00MThlLTg0ZDMtNjc5YzFjYmFjMmM4XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UY268_CR2,0,182,268_AL_.jpg</image>
+            <année>2014</année>
+            <réalisateur>Justin Roiland, Dan Harmon</réalisateur>
+            <description>Un brillant inventeur et son petit fils un peu à l'Ouest partent à l'aventure...</description>
+            <lien>http://www.allocine.fr/series/ficheserie_gen_cserie=11561.html</lien>
+            <lien>http://www.imdb.com/title/tt2861424/?ref_=nv_sr_1</lien>
+        </Série>
+        <Série id="4">
+            <name>SiliconValley</name>
+            <image>https://ia.media-imdb.com/images/M/MV5BMTAxNTEyODE5MTNeQTJeQWpwZ15BbWU4MDE3MjM3ODQz._V1_UX182_CR0,0,182,268_AL_.jpg</image>
+            <année>2014</année>
+            <réalisateur>Dave Krinsky, Alec Berg</réalisateur>
+            <description>Dans la Silicon Valley d'aujourd'hui, les personnes les plus qualifiées pour réussir ne sont pas forcément celles les plus qualifiées pour savoir comment le gérer...</description>
+            <lien>http://www.allocine.fr/series/ficheserie_gen_cserie=11701.html</lien>
+            <lien>http://www.imdb.com/title/tt2575988/?ref_=nv_sr_1</lien>
+        </Série>
+    </categorieseries>
+    
+    <Mangas>
+        <Manga id="1">
+            <name>TokyoGhoul</name>
+            <image type="image"></image>
+            <année></année>
+            <réalisateur></réalisateur>
+            <description></description>
+            <lien type="Allociné"></lien>
+            <lien type="IMBD"></lien>
+        </Manga>
+        <Manga id="2">
+            <name></name>
+            <image type="image"></image>
+            <année></année>
+            <réalisateur></réalisateur>
+            <description></description>
+            <lien type="Allociné"></lien>
+            <lien type="IMBD"></lien>
+        </Manga>
+        <Manga id="3">
+            <name></name>
+            <image type="image"></image>
+            <année></année>
+            <réalisateur></réalisateur>
+            <description></description>
+            <lien type="Allociné"></lien>
+            <lien type="IMBD"></lien>
+        </Manga>
+        <Manga id="4">
+            <name></name>
+            <image type="image"></image>
+            <année></année>
+            <réalisateur></réalisateur>
+            <description></description>
+            <lien type="Allociné"></lien>
+            <lien type="IMBD"></lien>
+        </Manga>
+    </Mangas>
+</Netflop>
